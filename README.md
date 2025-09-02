@@ -14,10 +14,8 @@
 ### Análise de Atividade no GitHub
 
 - **Total de Repositórios:** 9  
-- **Linguagens Principais:** Java, C#, JavaScript, Python, HTML/CSS  
-- **Commits:** 26  
-- **Foco:** Desenvolvimento Backend, Desenvolvimento de APIs  
-- **Métricas de Sucesso:** Poucas estrelas, PRs, issues  
+- **Linguagens Principais:** Java, C#, JavaScript, Python, React
+- **Foco:** Desenvolvimento Backend, Desenvolvimento de APIs
 
 ### Projetos em Destaque
 
@@ -28,14 +26,35 @@ Explore alguns dos meus projetos:
 
 ### Estatísticas do GitHub
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Victor-Dev0)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Dev0)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Victor-Dev0)](https://github.com/Victor-Dev0)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Victor-Dev0)](https://git.io/streak-stats)  
+### 
+ <div>
+  <a href="https://github.com/guustavo07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Dev0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Dev0&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<br>
 
-### Conecte-se Comigo
+### ⚡ Tecnologias:
+  <div style="display: inline_block"><br>
+   <img align="center" alt="Gus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gus-RCT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />     
+</div>
+  
+  ##
 
-- 📱 [LinkedIn](https://www.linkedin.com/in/victor-gustavo-700b8b144)
+<p dir="auto">💬 Conecte-se Comigo<p>
+  <div>
+
+  <a href="https://www.instagram.com/vituu4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitinhomatascav@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-gustavo-700b8b144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      
+  </div>  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/victor-gustavo-700b8b144)
 
