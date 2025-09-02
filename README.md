@@ -1,17 +1,15 @@
-# Visão Geral do Perfil de Victor_Gustavo no GitHub
-
 ## Olá 👋,
 
-### Eu sou Victor_Gustavo, um desenvolvedor backend apaixonado, com foco no desenvolvimento de APIs utilizando Java, C# e Python.
+### Eu sou Victor Gustavo, um desenvolvedor backend entusiasta em aprendizado, com foco no desenvolvimento de APIs utilizando Java, C# e Python.
 -------
 
 ## 🧐 Sobre Mim
 
 - 🌐 Sou um desenvolvedor backend entusiasmado em criar APIs robustas e sistemas escaláveis.  
-- 🔧 Minhas principais linguagens de programação incluem Java, C#, JavaScript, Python e HTML/CSS.  
+- 🔧 Minhas principais linguagens de programação incluem Java, C#, JavaScript, Python e React.  
 - 💻 Atualmente, possuo 9 repositórios públicos que demonstram minhas habilidades e projetos diversos.  
 - 🚀 Sou dedicado ao aprendizado contínuo e ao aprimoramento da minha prática em desenvolvimento backend.  
-- 📫 Entre em contato pelo e-mail [victor.dev@domain.com](mailto:victor.dev@domain.com) para oportunidades de colaboração.  
+- 📫 Entre em contato pelo e-mail [vitinhomatascav@hotmail.com](mailto:vitinhomatascav@hotmail.com) para oportunidades de colaboração.  
 
 ### Análise de Atividade no GitHub
 
@@ -26,8 +24,7 @@
 Explore alguns dos meus projetos:  
 
 - [**ApiJavaLogin**](https://github.com/Victor-Dev0/ApiJavaLogin)  
-- [**BackAPIMobille**](https://github.com/Victor-Dev0/BackAPIMobille)  
-- [**APIJava**](https://github.com/Victor-Dev0/APIJava)  
+- [**BackAPIMobille**](https://github.com/Victor-Dev0/BackAPIMobille)
 
 ### Estatísticas do GitHub
 
@@ -47,4 +44,4 @@ Explore alguns dos meus projetos:
 Em conclusão, meu perfil no GitHub reflete minha jornada como desenvolvedor backend dedicado, com foco no desenvolvimento de APIs. Apesar do envolvimento externo ainda ser modesto, prospero na criação de projetos diversos que refletem minhas habilidades e minha busca incansável pela maestria em tecnologias backend. Junte-se a mim nessa jornada de crescimento e aprendizado, enquanto mergulhamos mais fundo no mundo do desenvolvimento backend.  
 
 Atenciosamente,  
-Victor_Gustavo  
+Victor Gustavo  
