@@ -38,12 +38,9 @@ Explore alguns dos meus projetos:
 
 ### Conecte-se Comigo
 
-- 📱 [LinkedIn](https://www.linkedin.com/in/victor-gustavo/)  
-- 🐦 [Twitter](https://twitter.com/VictorDev)  
-- 🌐 [Site Pessoal](https://victorgustavo.com)  
+- 📱 [LinkedIn](https://www.linkedin.com/in/victor-gustavo-700b8b144)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/victor-gustavo/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Seguir-green)](https://twitter.com/VictorDev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/victor-gustavo-700b8b144)
 
 ### Uma Jornada de Crescimento e Aprendizado
 
