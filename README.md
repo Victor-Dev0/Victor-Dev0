@@ -54,9 +54,7 @@ Explore alguns dos meus projetos:
   <a href = "mailto:vitinhomatascav@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-gustavo-700b8b144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       
-  </div>  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/victor-gustavo-700b8b144)
+  </div>
 
 ### Uma Jornada de Crescimento e Aprendizado
 
